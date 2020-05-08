@@ -3,9 +3,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* -webkit box sizing:border box; */
-    
-    
 }
 .divtop{
     height: 48px;
@@ -15,8 +12,6 @@
 .mainheader{
     height: 48px;
     width: 90%;
-    /* margin-left: 60px; */
-    /* background-color: green; */
     display: inline-block;
     position: relative;
     left: 50px;
@@ -86,8 +81,6 @@ img#yts{
     display: inline-block;
     float: right;
     margin-top: 11px;
-    /* height: 40px; */
-    /* margin-right: px; */
 }
 .a2{
     background-color:#ffffff;
@@ -101,10 +94,8 @@ img#yts{
     color: #333333;
 }
 .header{
-    /* height:70.4pxpx ; */
     width:100%;
     background-color:#f7f8fa ;
-    /* background: yellow; */
     display: inline-block;
     position: absolute;
     top:48px;
@@ -114,17 +105,11 @@ img#yts{
      height:100px ;
      width:100%;
      position: fixed;
-     /* top: 5px;
-     left: 0px; */
      background-color:#F0F1F3;
-     /* display: flex; */
      display: inline-block;
      margin-left:0px ;
      z-index: 9999;
 }
-/* #headerok{
-    position: fixed;
-} */
 .logo{
     height:51px ;
     width: 191.11px;
@@ -132,24 +117,6 @@ img#yts{
     left:20px ;
     float: left;
 }
-/* .u1{
-    height: 50px;
-    width: 660px;
-     background: #333333;
-    float: right;
-     display: inline; 
-    position: relative;
-    top: 9px;
-    right: 40px;
-    display: inline;
-    list-style-type: none;
-}
-.u1 .l1{
-    display: inline;
-}
-.u1 .l1 .a1{
-    display: inline;
-} */
 .menu-bar{
     z-index: 9999;
     width: 57%;
@@ -289,15 +256,12 @@ img{
 .mainsc{
     height: 699px;
     width: 100%;
-    /* background: green; */
     position: relative;
     top: 621px;
 }
 .mainduv{
     height: 549px;
     width: 70%;
-    /* background: pink; */
-    
     display: block;
     position: relative;
     top: 80px;
@@ -319,14 +283,10 @@ h2 img,#imppi {
     width:100%;
     position: relative;
     top:621px ;
-    background-color: #2655E8;
-    
-
-    
+    background-color: #2655E8;  
 }
 .bdiv{
     display: inline-block;
-    /* background: red; */
     position: relative;
     top: 40px;
     left: 30px;
@@ -354,9 +314,7 @@ h2 img,#imppi {
     0 22.3px 17.9px rgba(0, 0, 0, 0.072),
     0 41.8px 33.4px rgba(0, 0, 0, 0.086),
     0 100px 80px rgba(0, 0, 0, 0.12);
-    border: 1px  grey;
-    
-    
+    border: 1px  grey; 
 }
 .yoyo{
     height: 415px;
@@ -367,8 +325,6 @@ h2 img,#imppi {
 .mainsec3{
     height: 370px;
     width: 100%;
-    /* background:#FFFFFF; */
-    /* background: green; */
     position: relative;
     top: 621px;
 }
@@ -377,8 +333,6 @@ h2 img,#imppi {
     width: 95%;
     position: absolute;
     margin: 30px;
-
-
 }
 .bdivok{
     display: inline-block;
@@ -391,64 +345,40 @@ h2 img,#imppi {
     margin: 20px 0px;
     padding: 18px;
     font-weight: 600;
-    /* box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-    0 12.5px 10px rgba(0, 0, 0, 0.06),
-    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-    0 100px 80px rgba(0, 0, 0, 0.12); */
-    /* position: relative;
-    top: 5px; */
 }
 .devin{
     height: 250px;
     width: 67%;
-    /* background: orchid; */
     padding: 0px 15px;
     float: left;
 }
 .devin2{
     display: inline-block;
-    /* float: right; */
     height: 280px;
-    width: 390px;
-    /* background: red; */
-    /* position: relative;
-    text-outline: 900px; */
-    /* margin-left: 10px; */
-    
+    width: 390px;  
     color: #333333;
 }
 .dupr{
     height: 480px;
     width: 100%;
-    /* background: grey; */
     position: relative;
     top: 620px;
 }
 .dsb{
-     /* display: inline-block; */
     height: 325px;
     width: 94%;
-    /* background:pink; */
     position: absolute;
-    margin: 40px 35px;
-    
+    margin: 40px 35px;    
 }
 .fh{
     color: #666666;
-    /* background: red; */
     text-align: center;
 }
 .dg{
-    /* background: green; */
-    /* display: inline-block; */
     height: 220px;
     width: 100%;
-
 }
 .dgi{
-    /* background: greenyellow; */
     height: 215px;
     width: 19.15%;
     display: inline-block;
@@ -463,8 +393,7 @@ h2 img,#imppi {
     left: 0px;
     margin: 0px;
     height:215px ; 
-    width:0 auto;
-    
+    width:0 auto;   
 }
 .dgi img:hover{
     transform: scale(2,2);
@@ -475,21 +404,17 @@ h2 img,#imppi {
     height: 402.25px;
     width: 100%;
     background-color:purple;
-    /* display: block; */
     position: relative;
     top: 620px;
-    /* left: 300px; */
 }
 .frdiv1{
     height: 358px;
     width: 100%;
     background: rgb(37, 39, 46);
-    /* display:inline-block; */
 }
 .subfrdiv{
     height: 250px;
     width: 30%;
-    /* background-color: green; */
     display: inline-block;
     position: relative;
     left: 14px;
@@ -500,7 +425,6 @@ h2 img,#imppi {
 .subfrdiv2{
     height: 61px;
     width: 30%;
-    /* background-color: green; */
     display: inline-block;
     position: relative;
     bottom: 132px;
@@ -512,7 +436,6 @@ h2 img,#imppi {
 .subfrdiv3{
     height: 95px;
     width: 30%;
-    /* background-color: pink; */
     display: inline-block;
     position: relative;
     bottom: 90px;
@@ -544,8 +467,7 @@ h2 img,#imppi {
     height: 150x;
     width: 50px;
     position: absolute;
-    margin-top: 40px;
-    
+    margin-top: 40px;   
 }
 
 .hspc3:before{
